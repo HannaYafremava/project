@@ -1,34 +1,31 @@
-.body {
+body {
     background: lightgray;
 }
 
-.header {
+header {
     color: black;
     background: grey;
     padding: 5%;
     font-size: xx-large;
 }
 
-.p {
+p {
     margin: 30px 15px 40px 15px;
 }
 
-.footer {
+footer {
     background: grey;
     margin: 5%;
     padding: 3%;
 }
 
-.ul {
+ul {
 
     list-style-type: none;
 }
 
-.li {
+li {
     display: inline-block;
     margin-right: 20px;
-}
-
-.li {
     color: purple;
 }
