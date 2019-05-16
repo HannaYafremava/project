@@ -1,0 +1,25 @@
+.nav{
+    background-color: lightslategrey;
+    padding: 20px;
+}
+ul {
+    text-align: right;
+    list-style-type: none;
+
+
+}
+
+li {
+    display: inline-block;
+    color: whitesmoke;
+    padding-right: 15px;
+    font-size: x-large;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+a:hover{
+    color: darkviolet;
+}
