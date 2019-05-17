@@ -1,7 +1,7 @@
 .nav{
     background-color: lightslategrey;
     padding: 10px;
-    font-family: Bahnschrift;
+    font-family: Bahnschrift, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 ul {
     text-align: right;
@@ -27,7 +27,7 @@ a:hover{
  body{
      background-color: lightblue;
      font-size: x-large;
-     font-family: Bahnschrift;
+     font-family: Bahnschrift, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
  }
 .pic{
     background-image: url("../img/zlayout.png");
