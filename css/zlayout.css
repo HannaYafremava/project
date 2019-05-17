@@ -1,6 +1,7 @@
 .nav{
     background-color: lightslategrey;
-    padding: 20px;
+    padding: 10px;
+    font-family: Bahnschrift;
 }
 ul {
     text-align: right;
@@ -22,4 +23,24 @@ a {
 }
 a:hover{
     color: darkviolet;
+}
+ body{
+     background-color: lightblue;
+     font-size: x-large;
+     font-family: Bahnschrift;
+ }
+.pic{
+    background-image: url("../img/zlayout.png");
+    background-position: initial;
+    background-repeat: no-repeat;
+    height: 700px;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 50px;
 }
